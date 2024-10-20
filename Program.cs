@@ -56,9 +56,12 @@ try
                 }
                 else
                 {
+
+                    update = (update - 1) * 2;
+
                     if (update <= 76)
                     {
-                        update = (update - 1) * 2;
+                        
                     }
                     else
                     {
