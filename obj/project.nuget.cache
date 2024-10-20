@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZhtVRgCyWU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nathaniel\\source\\repos\\Card Morpher\\Card Morpher\\Card Morpher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathaniel\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

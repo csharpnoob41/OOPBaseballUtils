@@ -1,0 +1,17 @@
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\bin\Debug\net8.0\Card Morpher.exe
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\bin\Debug\net8.0\Card Morpher.deps.json
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\bin\Debug\net8.0\Card Morpher.runtimeconfig.json
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\bin\Debug\net8.0\Card Morpher.dll
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\bin\Debug\net8.0\Card Morpher.pdb
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\Card Morpher.csproj.AssemblyReference.cache
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\Card Morpher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\Card Morpher.AssemblyInfoInputs.cache
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\Card Morpher.AssemblyInfo.cs
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\Card Morpher.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\Card Mor.E8D857C9.Up2Date
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\Card Morpher.dll
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\refint\Card Morpher.dll
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\Card Morpher.pdb
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\Card Morpher.genruntimeconfig.cache
+C:\Users\Nathaniel\source\repos\Card Morpher\Card Morpher\obj\Debug\net8.0\ref\Card Morpher.dll
