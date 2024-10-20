@@ -1,16 +1,5 @@
-﻿
-/*
- * (=IF(A1 <= 76, 399/75 * (A1 - 1) + 1, 150/114 * (A1 - 76) + 400)) to columns T through AK, AU through AW, AZ through BC, BE through BH, BJ through BW.
-
-(=(A1-1)*2) to columns AO through AT, AY, BD, BI, BW, BX, and CA through CK.
-
- * 
- * 
- * */
-
-
-
 using Card_Morpher;
+using System.ComponentModel.Design;
 using System.Net;
 using System.Reflection;
 using System.Runtime.CompilerServices;
@@ -54,18 +43,30 @@ try
                     property.SetValue(card, update, null);
     
                 }
-                else
+                else if(morphType == 2) 
                 {
-
+                
+                    
                     update = (update - 1) * 2;
 
-                    if (update <= 76)
+                   
+                }
+
+                else if(morphType == 3)
+                {
+                    update = (update - 1) * 2;
+
+                    if (update <= 120)
                     {
-                        
+                        update = 1 + (update - 1) * (70-1)/(120-1);
+                    }
+                    else if(update <= 270)
+                    {
+                        update = 70 + (update - 120) * (200 - 70)/(270-120);
                     }
                     else
                     {
-
+                        update = 200 + (update - 270) * (250 - 200) / (318 - 270);
                     }
                 }
                 property.SetValue(card, update, null);
