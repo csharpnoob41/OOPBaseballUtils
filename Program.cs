@@ -23,7 +23,7 @@ try
 
             if(property.PropertyType == typeof(int))
             {
-                int update = (int)property.GetValue(card);
+                int update = property.GetValue(card);
                 if (morphType == 0)
                 {
                     continue;
